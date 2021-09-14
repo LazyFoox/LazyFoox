@@ -15,7 +15,8 @@ This will change often if I forgot.
 ![Score](https://github-readme-stats.vercel.app/api?username=LazyFoox&show_icons=true&theme=radical)
 ![Learn](https://github-readme-stats.vercel.app/api/top-langs/?username=LazyFoox&bg_color=141321&text_color=fff&langs_count=1)
 
-# // If you want to reach me \\\
+
+# // reach me \\\
 
 🐦 ・ https://twitter.com/LazyFoox_?s=09
 
