@@ -13,7 +13,7 @@ This will change often if I forgot.
 
 ## Stats
 ![Score](https://github-readme-stats.vercel.app/api?username=LazyFoox&show_icons=true&theme=radical)
-![Learn](https://github-readme-stats.vercel.app/api/top-langs/?username=LazyFoox&bg_color=141321&text_color=fff&langs_count=1)
+![Learn](https://github-readme-stats.vercel.app/api/top-langs/?username=LazyFoox&bg_color=141321&text_color=fff)
 
 
 # // reach me \\\
