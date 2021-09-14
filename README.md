@@ -9,8 +9,11 @@ English isn't my first language but I keep learning some of it to get better.
 This will change often if I forgot.
 
 ###  Program
-[Python](https://img.shields.io/badge/Code-python-informational?style=flat&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Code-python-informational?style=flat&logo=Python&logoColor=white)
 
+## Stats
+![Score](https://github-readme-stats.vercel.app/api?username=LazyFoox&show_icons=true&theme=radical)
+![Learn](https://github-readme-stats.vercel.app/api/top-langs/?username=LazyFoox&bg_color=141321&text_color=fff&langs_count=1)
 
 # // If you want to reach me \\\
 
