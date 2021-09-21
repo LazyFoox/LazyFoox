@@ -26,4 +26,5 @@ This will change often if I forgot.
 
 ❄ ・ https://discord.gg/cnXRrxXVpt
 
+![serverlink](https://discordapp.com/api/guilds/551532893302685730/widget.png?style=banner4)
 
